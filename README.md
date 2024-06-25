@@ -3,7 +3,7 @@
 ![Your Profile Banner Image](URL_to_your_image)
 -->
 
-## About Me
+### About Me
 
 I am a passionate Creative Developer with experience in building web applications using modern technologies like React, Redux, Node.js, MongoDB, and more. I enjoy solving complex problems and creating efficient solutions.
 
@@ -11,7 +11,7 @@ I am a passionate Creative Developer with experience in building web application
 - 🖥️ See my portfolio at [mavism.me](http://mavism.me)
 - ✉️ You can reach me at [Email](mailto:imavisma@gmail.com)
 
-## Skills
+### Skills
 
 - **Languages:** JavaScript, TypeScript, Python, SQL
 - **Frontend:** React, Redux, Material UI, Sass
@@ -19,7 +19,7 @@ I am a passionate Creative Developer with experience in building web application
 - **Tools:** Git, Webpack
 - **Other:** Agile, Scrum
 
-## Get in Touch
+### Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/mavisxjma/)
 - [Instagram](https://www.instagram.com/)
