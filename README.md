@@ -4,7 +4,6 @@
 -->
 
 ### About Me
-
 I am a passionate Creative Developer with experience in building web applications using modern technologies like React, Redux, Node.js, MongoDB, and more. I enjoy solving complex problems and creating efficient solutions.
 
 - 🌍 I'm based in Melbourne
@@ -12,9 +11,6 @@ I am a passionate Creative Developer with experience in building web application
 - ✉️ You can reach me at [Email](mailto:imavisma@gmail.com)
 
 ### Skills
-
-## Skills
-
 - **Languages:**
   <img src="https://img.shields.io/badge/JavaScript-Expert-brightgreen" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-Beginner-red" alt="TypeScript">
