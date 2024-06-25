@@ -13,11 +13,33 @@ I am a passionate Creative Developer with experience in building web application
 
 ### Skills
 
-- **Languages:** JavaScript, TypeScript, Python, SQL
-- **Frontend:** React, Redux, Material UI, Sass
-- **Backend:** Node.js, Express.js, MongoDB
-- **Tools:** Git, Webpack
-- **Other:** Agile, Scrum
+## Skills
+
+- **Languages:**
+  <img src="https://img.shields.io/badge/JavaScript-Expert-brightgreen" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-Beginner-red" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-Advanced-green" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-yellow" alt="SQL">
+
+- **Frontend:** 
+  <img src="https://img.shields.io/badge/React-Advanced-green" alt="React">
+  <img src="https://img.shields.io/badge/Redux-Intermediate-yellow" alt="Redux">
+  <img src="https://img.shields.io/badge/Material_UI-Beginner-red" alt="Material UI">
+  <img src="https://img.shields.io/badge/Sass-Intermediate-yellow" alt="Sass">
+
+- **Backend:** 
+  <img src="https://img.shields.io/badge/Node.js-Advanced-green" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-Advanced-green" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-Intermediate-yellow" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-Beginner-red" alt="PostgreSQL">
+
+- **Tools:** 
+  <img src="https://img.shields.io/badge/Git-Advanced-green" alt="Git">
+  <img src="https://img.shields.io/badge/Webpack-Intermediate-yellow" alt="Webpack">
+
+- **Other:** 
+  <img src="https://img.shields.io/badge/Agile-Advanced-green" alt="Agile">
+  <img src="https://img.shields.io/badge/Scrum-Advanced-green" alt="Scrum">
 
 ### Get in Touch
 
