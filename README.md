@@ -11,7 +11,24 @@ I am a passionate Creative Developer with experience in building web application
 - <img width="20" height="20" src="https://img.icons8.com/3d-fluency/20/email.png" alt="email"/> You can reach me at [Email](mailto:imavisma@gmail.com)
 
 ### Skills
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="20"/> <img src="https://img.shields.io/badge/JavaScript-Expert-brightgreen" alt="JavaScript"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="20"/> <img src="https://img.shields.io/badge/TypeScript-Beginner-red" alt="TypeScript"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="20"/> <img src="https://img.shields.io/badge/Python-Advanced-green" alt="Python"> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="20"/> <img src="https://img.shields.io/badge/SQL-Intermediate-yellow" alt="SQL"> <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" width="20"/> <img src="https://img.shields.io/badge/React-Advanced-green" alt="React"> <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="20"/> <img src="https://img.shields.io/badge/Redux-Intermediate-yellow" alt="Redux"> <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="20"/> <img src="https://img.shields.io/badge/Material_UI-Beginner-red" alt="Material UI"> <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="20"/> <img src="https://img.shields.io/badge/Sass-Intermediate-yellow" alt="Sass"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="20"/> <img src="https://img.shields.io/badge/Node.js-Advanced-green" alt="Node.js"> <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="20"/> <img src="https://img.shields.io/badge/Express.js-Advanced-green" alt="Express.js"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="20"/> <img src="https://img.shields.io/badge/MongoDB-Intermediate-yellow" alt="MongoDB"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="20"/> <img src="https://img.shields.io/badge/PostgreSQL-Beginner-red" alt="PostgreSQL"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="20"/> <img src="https://img.shields.io/badge/Git-Advanced-green" alt="Git"> <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" width="20"/> <img src="https://img.shields.io/badge/Webpack-Intermediate-yellow" alt="Webpack"> <img src="https://img.shields.io/badge/Agile-Advanced-green" alt="Agile"> <img src="https://img.shields.io/badge/Scrum-Advanced-green" alt="Scrum">
+<p>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/?size=80&amp;id=aPFPvI9iSUKn&amp;format=png" alt="Agile" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/?size=256w&amp;id=9qFcDV9OxuAD&amp;format=png" alt="Scrum" width="40" style="border-radius:50%;"/>
+</p>
 
 ### Get in Touch
 
