@@ -3,7 +3,7 @@
 -->
 # 🚀 Welcome!
 ### About Me
-![intromm](https://github.com/user-attachments/assets/7a00161a-63d2-484e-b9d2-9ae7167faab2)
+![introvis](https://github.com/user-attachments/assets/9dfd8c6e-d42f-47f6-a9df-f5faf8b7302c)
 <!--
 ```json
 const IntroGreetings: Developer = {
