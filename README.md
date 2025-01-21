@@ -3,8 +3,7 @@
 -->
 # 🚀 Welcome!
 ### About Me
-![image](https://github.com/user-attachments/assets/6071477e-308e-48cc-8962-a77b7f0ddd50)
-
+![intromm](https://github.com/user-attachments/assets/7a00161a-63d2-484e-b9d2-9ae7167faab2)
 <!--
 ```json
 const IntroGreetings: Developer = {
@@ -15,6 +14,7 @@ const IntroGreetings: Developer = {
         emoji: "👋🏼"
     })};
 ```
+![image](https://github.com/user-attachments/assets/6071477e-308e-48cc-8962-a77b7f0ddd50)
 -->
 - 🌐 Currently building **Exciting Web Projects** - check out my portfolio at [**mavism.me**](https://mavism.me/)
 - 👩‍🎓 **Master of Information Technology** graduate from **RMIT University**
